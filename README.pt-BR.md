@@ -56,9 +56,9 @@ Sua arquitetura deve ser adequada ao problema: nem toda aplicação precisa de u
 - [Segurança, guardrails e governança](pt/chapters/06-seguranca-e-governanca/13-seguranca-guardrails-e-governanca.md)
 
 ### 7. Material de estudo
-- [Glossário de agentes de IA](pt/chapters/07-material-de-estudo/14-glossario-de-agentes-de-ia.md)
-- [Revisão e conceitos-chave](pt/chapters/07-material-de-estudo/15-revisao-e-conceitos-chave.md)
-- [Continuando a jornada](pt/chapters/07-material-de-estudo/16-continuando-sua-jornada.md)
+- [Continuando a jornada](pt/chapters/07-material-de-estudo/14-continuando-sua-jornada.md)
+- [Glossário de agentes de IA](pt/chapters/07-material-de-estudo/15-glossario-de-agentes-de-ia.md)
+- [Revisão e conceitos-chave](pt/chapters/07-material-de-estudo/16-revisao-e-conceitos-chave.md)
 
 ## ✨ Leitura complementar
 
