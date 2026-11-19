@@ -62,7 +62,7 @@ Sua arquitetura deve ser adequada ao problema: nem toda aplicação precisa de u
 
 ## ✨ Leitura complementar
 
-- [Um Guia da OpenAI para Construção de Agentes com LLMs]([pt/glossary.md](https://elisaterumi.substack.com/p/um-guia-da-openai-para-construcao))
+- [Um Guia da OpenAI para Construção de Agentes com LLMs](https://elisaterumi.substack.com/p/um-guia-da-openai-para-construcao)
 - [A era dos chatbots acabou. A era dos agentes começou.](https://elisaterumi.substack.com/p/a-era-dos-chatbots-acabou-a-era-dos)
 - [A Nova Era do Desenvolvimento de Software: do Vibe Coding à Engenharia Agêntica](https://elisaterumi.substack.com/p/a-nova-era-do-desenvolvimento-de)
 - [Quando agentes de IA começam a atacar sistemas reais: o que os incidentes da OpenAI e Anthropic nos ensinam](https://elisaterumi.substack.com/p/quando-agentes-de-ia-comecam-a-atacar)
@@ -94,7 +94,7 @@ Boa leitura! 🚀
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=elisaterumi-ai%2Fagent-skills-in-practice&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=elisaterumi-ai%2Fai-agents-guide&type=date&legend=top-left">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/ai-agents-guide&type=date&theme=dark&legend=top-left" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=elisaterumi-ai/ai-agents-guide&type=date&legend=top-left" />
